@@ -85,7 +85,7 @@ To use docker, run the following command:
 docker compose -f docker-compose.yml up --build
 ```
 
-When running for the first time, the database still needs its migrations. Use `docker ps` to find the app container name (probably `stegadventure-app-1`) and then use `docker exec -it <container-name> php artisan migrate`. This project has not been optimised for the use of docker.
+When running for the first time, the database still needs its migrations. Use `docker ps` to find the app container name (probably `stegif-app-1`) and then use `docker exec -it <container-name> php artisan migrate`. This project has not been optimised for the use of docker.
 
 ## Changing the story
 
