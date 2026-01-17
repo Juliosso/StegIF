@@ -132,3 +132,4 @@ Vue documentation can be found [here](https://vuejs.org/guide/).
 In this project, Vue is extended with Vuetify, so pre-made Vuetify components can be used. All Vuetify components can be found [here](https://vuetifyjs.com/en/components/all/).
 
 ## AI statement
+During the preparation of this work the authors used Google Gemini in order to write a clear story dialogue and generate corresponding visual images. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the work. 
