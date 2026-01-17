@@ -1,4 +1,26 @@
 [
+        {   
+        "id": 9,
+        "character": "System",
+        "type": "TEXT",
+        "content": "*Press the screen to start the game.*",
+        "background": "title",
+        "emotion": "default",
+        "points": 0,
+        "next": 99,
+        "location": "Title Screen"
+    },
+    {
+        "id": 99,
+        "character": "Sarah",
+        "type": "TEXT",
+        "content": "Good morning! You must be the new hire for the SOC team?",
+        "background": "lobby",
+        "emotion": "happy",
+        "points": 0,
+        "next": 100,
+        "location": "Lobby"
+    },
     {
         "id": 100,
         "character": "System",
@@ -2452,11 +2474,11 @@
         "next": 617,
         "location": "End Screen"
     },
-    {
+        {
         "id": 617,
         "character": "System",
         "type": "TEXT",
-        "content": "CREDITS: Stegadevture by Femke.",
+        "content": "CREDITS: Stegadevture, Femke et al., https://www.sciencedirect.com/science/article/pii/S2666557325000473",
         "background": "ends",
         "emotion": "default",
         "points": 0,
@@ -2465,17 +2487,6 @@
     },
     {
         "id": 618,
-        "character": "System",
-        "type": "TEXT",
-        "content": "Developed by Pramesh, Ador, Julian.",
-        "background": "ends",
-        "emotion": "default",
-        "points": 0,
-        "next": 619,
-        "location": "End Screen"
-    },
-    {
-        "id": 619,
         "character": "System",
         "type": "TEXT",
         "content": "To restart the training, please refresh your terminal.",
