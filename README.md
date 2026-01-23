@@ -12,6 +12,9 @@ The game itself can be found in `resources/js/views/Game.vue`.
 
 The data send to the mySQL database can be analysed with the Jupyter Notebook `data_analysis.ipynb`. Most of this code is created by ChatGPT.
 
+The pre-survey linked with the game can be found here: https://q.surveys.utwente.nl/bon40XDCUECmW9tlSdl2_g
+The post-survey linked with the game can be found here: https://q.surveys.utwente.nl/KpUpQNUB_ECa-CNYvPMOIA
+
 ### Prerequisites
 
 The installation commands are for Linux. Consider downloading [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) if you use Windows. You can then type `wsl` in cmd to use it.
